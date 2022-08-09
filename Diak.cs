@@ -19,7 +19,7 @@ namespace Karesz
 
             karesz.Feladat = delegate ()
             {
-
+                
             };
         }
     }
