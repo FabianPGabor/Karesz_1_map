@@ -17,7 +17,7 @@ namespace Karesz
 
         void TANÁR_ROBOTJAI()
         {
-            new Robot("Karesz", 10, 10, 10, 10, 0, 0, 2, 1);
+            new Robot("Karesz", 10, 10, 10, 10, 0, 1, 2, 1);
 
 
             Robot janesz = new Robot("Janesz", Robot.képkészlet_lilesz, 0, 0, 0, 0, 15, 39, 2, 3);
